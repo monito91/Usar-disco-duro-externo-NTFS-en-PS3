@@ -1,0 +1,20 @@
+1-ve a https://github.com/aldostools/webMAN-MOD/releases y descarga el pkg prepISO 1.30
+2-instalalo en tu PS3
+3-pon tu disco duro externo en la pc y formatealo en NTFS
+4-crea una serie de carpetas que son importantes para que el disco funcione bien: escribelas tal cual las pongo
+-ex data (en esta carpeta puede ir el RAP universal de ps2)
+-game
+-GAMEI
+-GAMES (aqui van los juegos en formato carpeta, no he probado si funcionan los juegos en formato carpeta desde el disco duro externo en NTFS, todos mis juegos son ISO, podrias probar a ver si funcionan desde ahi)
+-PS2ISO (si tienes una PS3 retrocompatible pon tus ISO de PS2 en este carpeta y funcionaran)
+-PS3 (dentro de PS3 crea una carpeta llamada EXPORT y otra llamada SAVE DATA, dentro de EXPORT crea 2 carpetas PS2SD y otra PSV)
+-PS3ISO (aqui pones tus juegos en iso)
+-PSP
+-PSPISO (aqui van los ISO de psp, aqui ademas necesitamos del psp launcher para correrlos)
+-PSXISO (aqui debes poner los juegos ISO,BIN-CUE de ps1, si quieres poner cover mete una imagen jpg de 200x200 pixeles cada juego e imagen debe estar dentro de una carpeta con el mismo nombre del ISO,BIN-CUE, sino no los va a poder leer la consola).
+5-una vez que tengas ya configurado todo insertalo en tu consola en el puerto mas cercano al lector.
+6-despues de habilitar Hen dale x a la app prepISO y empezara a leer el disco se pondra en negro la imagen es normal, despues va a regresar la imagen.
+7-cuando regrese la imagen ve a juegos de webman, y veras todas la carpetas de iso que creaste (si solo metiste juegos en una, es la unica carpeta que va a aparecer)
+8-Pulsa x en la carpeta que quieras ocupar y pulsa x en el juego que quieras correr, en automatico se va al xmb y aparece la imagen de disco en la cosola dale x y a disfrutar sin ningun problema.
+
+TIP-SI NO HAS METIDO NUEVOS JUEGOS NO ES NECESARIO UTILIZAR LA APP SOLO VE A WEBMAN Y BUSCA TUS JUEGOS, CADA QUE METAS UN NUEVO JUEGO A CUALQUIER CARPETA DEBES VOLVER A USAR LA APP DE PREPISO (PARA REFRERSCAR EL DISCO DURO) SOLO PULSA X UNA VEZ, ESO DE MANTENER X PARA CACHE LOCAL NO SIRVE NO LE HAGAS CASO, .Haz la prueba y comentame si te funciona llevo mucho tiempo usando esta app y funciona al 100, recuerda formatear en NTFS, porque eXFAT no lo tolera y no te lee los archivos ya lo hice y no funciona.
